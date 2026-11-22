@@ -1,0 +1,4 @@
+:root{--bg:#14110f;--fg:#efe6dc;--muted:#b7a99a;--accent:#e08a3c}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.6 Georgia,serif}
+main{max-width:720px;margin:0 auto;padding:48px 20px}h1{font-size:2rem;margin:0 0 .3em}h2{font-size:1.2rem;margin-top:2em;color:var(--accent)}
+a{color:var(--accent)}p,li{color:var(--fg)}.muted{color:var(--muted);font-size:.9rem}footer{margin-top:3em}
